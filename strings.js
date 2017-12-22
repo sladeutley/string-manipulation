@@ -39,6 +39,8 @@ function palindrome(userInput) {
     printToDom(outputValue);
     }
 
+    //Checking to see if commits are being added
+    
 // clickingTheButton.addEventListener("click",function() {
 //     let captureText = userText.value;
 //     let outputValue = "";
